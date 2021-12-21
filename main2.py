@@ -1,1 +1,5 @@
-print('hola')
+import certifi
+certifi.where()
+
+
+
